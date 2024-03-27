@@ -13,3 +13,5 @@ ComonentResource - did not get to this portion
 
 Had a couple other IAM issues with the iam:CreateRole action, to get past that I gave my Pulumi user Admin rights, I didn't have time to figure the correct permission
 wanting to move to get the environment operational.
+
+The lambda_function.py file should be located in the ./lambda directory
